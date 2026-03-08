@@ -1,6 +1,6 @@
 0,CombatZoneResize,241,226,406,391,TLResume,,,
 0,HeartTeleport,320,304,,,,,,
-0,HeartMode,6,,,,,,,
+0,HeartMode,0,,,,,,,
 0,TLPause,,,,,,,,
 0.4,SansSlam,2,,,,,,,
 0,SansBody,HANDLEFT,,,,,,,
@@ -9,7 +9,7 @@
 0,SansBody,HANDRIGHTT,,,,,,,
 0,BoneStab,0,30,0.4,4,,,,
 0,SansAnimation,Idle,,,,,,,
-0.8,HeartMode,0,,,,,,,
+0.8,HeartMode,6,,,,,,,
 0,BoneHRepeat,130,226,200,1,300,5,183,
 0,BoneHRepeat,330,391,200,3,300,5,183,
 3.5,SansBody,HandLeft,,,,,,,
@@ -469,6 +469,7 @@ $Wait2,SET,LastDir,$Direction,,,,,,
 0,SansHead,LookLeft,,,
 0,SansBody,Shrug,,,
 0.3,endattack,,,,,,,,
+
 
 
 
